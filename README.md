@@ -1,5 +1,5 @@
 ### Save Myanmar 👋
-- 🌱 I’m currently learning Mobile Application Dev
+- 🌱 I so passionate about Mobile Application Development.
 
 <!--
 **NgeSue/ngesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
