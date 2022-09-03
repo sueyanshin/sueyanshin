@@ -1,6 +1,9 @@
-### Save Myanmar 👋
-- 🌱 I'm so passionate about Mobile Application Development.
-
+### Hi, I'm  S Y S 👋
+- 🌱 I'm so passionate about Mobile and Web Application Development.
+- 🔭 I’m currently working on Web Development.
+- 📫 How to reach me: ... twitter.com/NgeSue3
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm a popular singer there is no one at home.
 <!--
 **NgeSue/ngesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
