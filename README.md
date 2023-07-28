@@ -1,7 +1,7 @@
 ### Hi, I'm  S Y S 👋
 - 🌱 I'm so passionate about Mobile and Web Application Development.
-- 🔭 I’m currently working on Web Development.
-- 📫 How to reach me: ... twitter.com/NgeSue3
+- 🔭 I’m currently working on Flutter & Web Development.
+- 📫 How to reach me: ... twitter.com/sueyanshin
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a popular singer there is no one at home.
 <!--
