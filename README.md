@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter & Web Development.
 - 📫 How to reach me: ... twitter.com/sueyanshin
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a popular singer there is no one at home.
+- ⚡ Fun fact: ... I can exit vim in 5 different ways.
 <!--
 **NgeSue/ngesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
