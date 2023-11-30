@@ -44,17 +44,17 @@
 ### :fire: My Stats :
 <div style="width: 100%; display: flex; justify-content: center;">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-9&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueyanshin&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
   
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rex-9&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueyanshin&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <p align='center'> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rex-9/count.svg" />
+  <img src="https://profile-counter.glitch.me/sueyanshin/count.svg" />
 </p>
