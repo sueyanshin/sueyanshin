@@ -1,7 +1,7 @@
 ### Hi, I'm  S Y S 👋
 - 🌱 I'm so passionate about Mobile and Web Application Development.
-- 🔭 I’m currently working on Flutter & Web Development.
-- 📫 How to reach me: ... [X](https://www.twitter.com/sueyanshin),
+- 🔭 I’m currently working on Mobile & Spring Boot.
+- 📫 How to reach me: ... [X](https://www.twitter.com/sueyanshin)
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I can exit vim in 5 different ways. ✨
 
